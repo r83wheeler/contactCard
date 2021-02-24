@@ -6,4 +6,4 @@ function getTime() {
     timeTag.innerHTML = time
     setTimeout(getTime, 1000);
 }
-getTime();
+getTime(); 
