@@ -1,3 +1,12 @@
 body {
-    background-color: azure;
+    background-color: rgb(123, 138, 138);
+}
+
+#iconArea {
+    background-color: rgb(215, 226, 226);
+}
+
+h3 {
+    font-family:Optima, sans-serif;
+    font-size: 3rem;
 }
